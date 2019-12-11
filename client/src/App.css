@@ -1,0 +1,45 @@
+.App {
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+
+
+
+.task-wrapper{
+  max-width:800px;
+}
+
+.task{
+  display:flex;
+}
+
+.task-name{
+  color: black;
+  width:300px;
+}
+
+.task-status{
+  width:400px;
+}
+
+.completed{
+  color:green;
+}
